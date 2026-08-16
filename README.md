@@ -87,13 +87,13 @@ These filters allow users to dynamically analyze different segments of the busin
 
 ## 📷 Dashboard Screenshots
 
-![Dashboard Overview](Dashboard1.png)
+![Dashboard Overview](dashboard1.png)
 
-![Customer and Time Analysis](dashboad2.png)
+![Customer and Time Analysis](dashboard2.png)
 
-![Product and Sales Analysis](dashboad3.png)
+![Product and Sales Analysis](dashboard3.png)
 
-![Interactive Filters](dashboad4.png)
+![Interactive Filters](dashboard4.png)
 
 ## 💡 Key Business Insights
 The dashboard enables users to identify:
