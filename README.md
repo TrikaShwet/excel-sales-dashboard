@@ -109,7 +109,7 @@ The dashboard enables users to identify:
 ## 📁 Project Files
 
 - `amazon.xlsx` – Excel dashboard and analysis
-- `Dashboard1.png`
-- `Dashboard2.png`
-- `Dashboard3.png`
-- `Dashboard4.png`
+- `dashboard1.png`
+- `dashboard2.png`
+- `dashboard3.png`
+- `dashboard4.png`
